@@ -2,5 +2,5 @@
 
 int main()
 {
-	work1;
+	hope1;
 }
