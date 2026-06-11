@@ -1,0 +1,8 @@
+total 77
+drwxr-xr-x 1 byeon 197609     0 Jun 11 16:44 ./
+drwxr-xr-x 1 byeon 197609     0 Jun 11 16:43 ../
+drwxr-xr-x 1 byeon 197609     0 Jun 11 16:44 .git/
+-rw-r--r-- 1 byeon 197609  7883 Jun 11 16:42 .gitignore
+-rw-r--r-- 1 byeon 197609 35823 Jun 11 16:42 LICENSE
+-rw-r--r-- 1 byeon 197609     6 Jun 11 16:42 README.md
+-rw-r--r-- 1 byeon 197609     0 Jun 11 16:44 t1.txt
