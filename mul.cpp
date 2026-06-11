@@ -2,5 +2,5 @@
 
 int main()
 {
-asdfadsf	work1;rlaclqhRdmaqkq;
+	work1;
 }
